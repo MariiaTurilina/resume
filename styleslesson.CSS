@@ -1,0 +1,42 @@
+@импорт url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital@0;1&display=swap')
+
+body {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    
+    /*text-decoration: line-through;*/
+    /*letter-spacing: 2px;*/
+    /*lword-spacing: 20px;*/
+}
+
+body {
+    background: #dedede;
+}
+
+.info {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.info h2{
+margin-bottom: 15px;
+padding-left: 15px;
+
+}
+
+.info p {
+    font-weight: normal;
+    font-size: 16px;
+    font-style: italic;
+    color: #86898F;
+    padding-left: 15px;
+    margin: 0;
+}
+
+.info img {
+    box-shadow: 4px 4px 14px rgba(0.25, 0.25, 0.25, 0.25);
+    border-radius: 20px;
+    width: 200px;
+    display: block;
+}
+
